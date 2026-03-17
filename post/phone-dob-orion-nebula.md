@@ -6,7 +6,7 @@ feeds:
   - astro/index.json
   - search.json
 published: 2026-03-17
-astroimage: /astro/img/dob-moon-naneghat.webp
+astroimage: /astro/img/dob-m42-naneghat.webp
 ---
 ![Moon](../img/dob-moon-naneghat.webp)
 
