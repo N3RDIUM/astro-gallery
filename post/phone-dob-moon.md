@@ -21,7 +21,7 @@ Gear:
 
 Data acquisition:
 
-- ~7.5 minutes of untracked video
+- ~7.5 minutes untracked video @ 60fps
 
 Processing:
 
