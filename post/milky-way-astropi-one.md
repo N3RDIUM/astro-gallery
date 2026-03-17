@@ -8,7 +8,7 @@ feeds:
 published: 2026-03-17
 astroimage: /astro/img/rpi-milkyway-camp.webp
 ---
-![[rpi-milkyway-camp.webp]]
+![The Milky Way](rpi-milkyway-camp.webp)
 
 # The Milky Way
 Gear:
