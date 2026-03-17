@@ -1,5 +1,5 @@
 ---
-title: The Milky Way - N3RDIUM's Astrophotography
+title: The Milky Way
 description: My first milky way image, taken with a camera I built myself using a raspberry pi.
 template: n3rdium.dev
 feeds:
