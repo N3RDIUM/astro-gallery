@@ -6,6 +6,7 @@ feeds:
   - astro/index.json
   - search.json
 published: 2026-03-17
+astroimage: /astro/img/rpi-milkyway-camp.webp
 ---
 ![[rpi-milkyway-camp.webp]]
 
