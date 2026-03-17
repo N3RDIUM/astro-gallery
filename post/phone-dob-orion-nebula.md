@@ -8,9 +8,9 @@ feeds:
 published: 2026-03-17
 astroimage: /astro/img/dob-m42-naneghat.webp
 ---
-![Moon](../img/dob-moon-naneghat.webp)
+![Moon](../img/dob-m42-naneghat.webp)
 
-# The Moon
+# The Orion Nebula
 
 Gear:
 
