@@ -8,7 +8,7 @@ feeds:
 published: 2026-03-17
 astroimage: /astro/img/dob-m42-naneghat.webp
 ---
-![Moon](../img/dob-m42-naneghat.webp)
+![Orion Nebula](../img/dob-m42-naneghat.webp)
 
 # The Orion Nebula
 
